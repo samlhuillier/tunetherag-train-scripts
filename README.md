@@ -1,3 +1,2 @@
-# finetune-llm-for-rag
-
-This repo is for generating datasets where each prompt is augmented with RAG. 
+# Tune the rag training scripts
+This repo contains all the scripts I used to make this [post](https://ragntune.com/blog/Fine-tuning-an-LLM-to-be-good-at-RAG). 
